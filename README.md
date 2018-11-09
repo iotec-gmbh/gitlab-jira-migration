@@ -1,7 +1,7 @@
 # gitlab-jira-migration
 
 If you are using [JIRA](https://de.atlassian.com/software/jira) and [Gitlab](https://about.gitlab.com/) and you would like to change the url, user or password of your JIRA instance, you can not simply change the template and all the JIRA integration of all projects are changes (see [issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/25541)).
-So you have to change every single project which is pretty anying. 
+So you have to change every single project which is pretty annoying. 
 
 Or you can use this script.
 
