@@ -7,6 +7,8 @@ Or you can use this script.
 
 ## Dependencies
 
+This script is only tested with Python 3, but should also work with Python 2.
+
 You need [Requests](http://docs.python-requests.org/en/master/) for HTTP calls.
 
 ## Usage
